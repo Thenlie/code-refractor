@@ -6,4 +6,4 @@
 
 
 
-![code refractor mock up](https://github.com/Thenlie/code-refractor/blob/main/Develop/assets/images/mock-up.png?raw=true)
+![code refractor mock up](https://github.com/Thenlie/code-refractor/blob/main/assets/images/mock-up.png?raw=true)
